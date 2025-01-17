@@ -1,4 +1,4 @@
-#Monitor de Recursos
+# Monitor de Recursos
 Projeto simples em Python que usa a biblioteca psutil para monitorar recursos do sistema.
 Atualmente, checa os seguintes parâmetros:
   * Porcentagem de CPU usada
